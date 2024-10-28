@@ -1,0 +1,2 @@
+Home directory is a sub directory which is in the root directory and the root directory 
+is the parent directory
