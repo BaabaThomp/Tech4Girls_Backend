@@ -1,0 +1,4 @@
+First to create a branch you go to git branch with the branch name
+second is git push origin with the name of the branch which means pushing from one branch to another. 
+it also pushes branch created to github.
+third is git checkout with the name of the branch which moves within the branches

@@ -1,0 +1,2 @@
+Absolute path specifies the location of a file or directory from the root directory 
+and the relative path provides the path relative to the current local directory
