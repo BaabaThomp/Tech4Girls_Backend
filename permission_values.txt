@@ -1,0 +1,3 @@
+read is 4
+write is 2
+execute is 1

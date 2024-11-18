@@ -1,0 +1,7 @@
+home
+run
+users
+boot
+init
+dev
+bin
