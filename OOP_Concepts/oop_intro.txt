@@ -1,0 +1,20 @@
+Object oriented programming is a programming type that organizes a group of data attributes with
+functions or methods into a unit
+
+Encapsulation - it hides some private details of a class from other objects but only methods are 
+exposed.
+
+Polymorphsm - Allows the use of a common operation in a different way or it allows program code to have 
+different meaning or functions.
+
+Inheritance - This is when properties of a class can be inherited and exended by other class 
+or functions
+
+Abstraction - It is a programming methodology in which detailss of the programming codes are 
+hidde away from the user and only the essentail things are displayed to the user 
+
+Benefits.
+
+1.Reuse of code through inheritance 
+2.Flexibility through polymorphism
+3.Modularity for easier troubleshooting
